@@ -1,3 +1,3 @@
 # TankProject
 the tank thing
-the random thing
+*the random thing
